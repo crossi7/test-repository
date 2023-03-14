@@ -1,3 +1,3 @@
-test-repository
+My first Repository
 
-This is the second example.
+I am going to become the self made millionare by the age of 30.
